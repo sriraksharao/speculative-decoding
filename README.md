@@ -96,8 +96,4 @@ to accelerate large model serving. This project validates the core algorithm
 and measures where speedup actually comes from — acceptance rate, draft cost,
 and the gamma tradeoff — rather than just implementing it.
 
-## References
 
-- Leviathan et al. (2023). *Fast Inference from Transformers via Speculative Decoding*. ICML 2023.
-- Chen et al. (2023). *Accelerating Large Language Model Decoding with Speculative Sampling*. arXiv:2302.01318.
-- romsto/Speculative-Decoding — reference KV-cache implementation
