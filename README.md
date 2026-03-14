@@ -1,5 +1,5 @@
 
-# ⚡ Speculative Decoding Simulator
+# Speculative Decoding Simulator
 
 Empirical measurement of speculative decoding inference speedup on a T4 GPU.
 Implements the algorithm from [Leviathan et al., 2023](https://proceedings.mlr.press/v202/leviathan23a.html)
